@@ -1,2 +1,3 @@
-# prime-content-cms-lelv
-Automated issue comment bot repository
+# Prime Content Cms Lelv
+
+Automated issue comment bot repository.
